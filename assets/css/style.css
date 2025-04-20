@@ -1,9 +1,7 @@
 /**
-* Template Name: Personal
-* Updated: Jan 29 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: Alton Andrews Personal Site
+* Updated: Aptil 19 2025 with Bootstrap v5.3.2
+* Author: Alton Andrews
 */
 
 /*--------------------------------------------------------------
@@ -666,11 +664,21 @@ section .container {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: all 0.4s ease;
+}
+
+/* On hover: fade in and slide down the description */
+.services .icon-box:hover p {
+  opacity: 1;
+  max-height: 200px; /* Adjust depending on how long your description is */
+  margin-top: 15px;
 }
 
 .services .icon-box:hover {
-  background: #ffd200;
-  border-color: #ffd200;
+  background: #2d2d2d;
+  border-color: #2d2d2d;
 }
 
 .services .icon-box:hover .icon {
