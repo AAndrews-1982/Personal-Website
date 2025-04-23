@@ -2,8 +2,9 @@
 
 This is the repository for my personal website, built to showcase my UI/UX design knowledge and web development skills. The site is created using a combination of HTML, CSS, JavaScript, PHP, and Bootstrap.
 
-<img width="1440" alt="Screen Shot 2024-04-17 at 10 32 26 AM" src="https://github.com/AAndrews-1982/Personal-Website/assets/116847683/86d968f0-0ba7-4301-bdd2-fd8f7c3bb780">
+URL: https://aandrews-1982.github.io/Personal-Website/
 
+<img width="1440" alt="Screen Shot 2024-04-17 at 10 32 26 AM" src="https://github.com/AAndrews-1982/Personal-Website/assets/116847683/86d968f0-0ba7-4301-bdd2-fd8f7c3bb780">
 
 ## Table of Contents
 
@@ -43,6 +44,7 @@ To get a local copy of this project up and running, follow these simple steps:
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/your-username/your-repository.git
    ```
